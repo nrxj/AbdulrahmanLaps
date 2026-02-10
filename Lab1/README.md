@@ -1,6 +1,7 @@
 Development Environment Configuration
 
 *Implementation Steps*
+
 1. Software Installation
 Anaconda Distribution: Successfully installed the Anaconda navigator to manage virtual environments and packages efficiently.
 
